@@ -23,4 +23,8 @@ Hoy hemos utilizado:
 
 ## Añadido desde GitHub
 
+
 cambios rn rama master
+=======
+esto esta modificado en nuevaRama
+>>>>>>> nuevaRama
